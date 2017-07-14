@@ -1,0 +1,6 @@
+function main() {
+  
+  deleteProcedure();
+  archiveProcedure();
+  
+}
